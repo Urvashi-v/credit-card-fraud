@@ -107,11 +107,6 @@ streamlit run app.py
 
 ---
 
-## Contact
-**Author:** Mohamed Adhil M  
-**Email:** adhilm9991@gmail.com
-
----
 
 Feel free to raise issues, or suggest features!
 
